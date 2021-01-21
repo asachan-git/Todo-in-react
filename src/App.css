@@ -1,0 +1,17 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  /* width: 400px; */
+  border: 1px green  solid;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.todo__form {
+  display: flex;
+  align-self: center;
+  margin-left: 5px;
+}

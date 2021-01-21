@@ -1,0 +1,16 @@
+.todo {
+    display: flex;
+    margin: 5px;
+    padding-left: 20px;
+    width: 400px;
+    border: gray solid 2px;
+    border-radius: 5px;
+    font-family: sans-serif;
+    padding: 2px;
+    color: white;
+    background-color: rgb(5, 5, 97);
+}
+
+.todo-text {
+    margin-left: 4px;
+}
